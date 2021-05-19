@@ -1,0 +1,193 @@
+h1, h6, p {
+    font-family: Roboto;
+}
+.top-line {
+    position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+}
+.Web {
+    color: #2196F3;
+    position: absolute;
+    left: 215px;
+    font-size: 26px;
+}
+.Studio {
+    position: absolute;
+    left: 265px;
+    font-size: 26px;
+    color: black;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    width: 294px;
+    left: 453px;
+    margin-top: 32px;
+}
+a {
+    text-decoration: none;
+    color: #2196F3;
+}
+.telefon {
+    position: absolute;
+    left: 1263px;
+    margin-top: 32px;
+}
+.e-mail {
+    position: absolute;
+    left: 1078px;
+    margin-top: 32px;
+}
+/* ================================== */
+.head {
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: #2F303A;
+}
+.heading {
+    position: absolute;
+    width: 696px;
+    left: 452px;
+    margin-top: 200px;
+    font-weight: 900;
+    font-size: 44px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: white;
+}
+input {
+    font-family: Roboto;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    margin-top: 350px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    color: white;
+}
+/* =================================== */
+.properties {
+    position: absolute;
+    width: 1170px;
+    height: 101px;
+    left: 215px;
+    margin-top: 774px;
+    display: flex;
+}
+.block {
+    padding: 15px;
+}
+.box {
+    font-size: 14px;
+    color: #212121;
+    font-weight: bold;
+    margin: 0px;
+}
+p {
+    color: #757575;
+}
+/* ==================================== */
+
+.head-1 {
+    position: absolute;
+    width: 376px;
+    height: 42px;
+    left: 612px;
+    top: 969px;
+}
+.jpeg1 {
+    position: absolute;
+    width: 370px;
+    left: 215px;
+    top: 1061px;
+}
+.jpeg2 {
+    position: absolute;
+    width: 370px;
+    left: 615px;
+    top: 1061px;
+}
+.jpeg3 {
+    position: absolute;
+    width: 370px;
+    left: 1015px;
+    top: 1061px;
+}
+/* ==================================== */
+.our-team {
+    position: absolute;
+    width: 1600px;
+    height: 648px;
+    left: 0px;
+    top: 1449px;
+    background-color: #F5F4FA;
+}
+.head-3 {
+    position: absolute;
+    left: 668px;
+    margin-top: 30px;
+}
+.team {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 1170px;
+    left: 215px;
+    margin-top: 120px;
+}
+.name {
+    color: #212121;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+}
+.skill {
+    text-align: center;
+}
+.beckend {
+    background-color: white;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+/* ==================================== */
+.basement {
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+    background-color: #2F303A;
+}
+
+.address {
+    position: absolute;
+    width: 231px;
+    height: 81px;
+    left: 215px;
+    margin-top: 111px;
+}
+.Web-1 {
+    position: absolute;
+    margin-top: 60px;
+    color: #2196F3;
+    left: 215px;
+    font-size: 26px;
+}
+.Studio-1 {
+    position: absolute;
+    margin-top: 60px;
+    left: 265px;
+    font-size: 26px;
+    color: white;
+}
